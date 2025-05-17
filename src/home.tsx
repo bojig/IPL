@@ -666,8 +666,8 @@ function Home() {
         "venue": "Sawai Mansingh Stadium, Jaipur"
       },
      {
-        "id": "match46",
-        "date": "27-Apr-25",
+        "id": "match70",
+        "date": "18-May-25",
         "time": "7:30 PM",
         "team1": {
           "name": "Delhi Capitals",
@@ -680,8 +680,8 @@ function Home() {
         "venue": "Arun Jaitley Stadium, Delhi"
       },
       {
-        "id": "match70",
-        "date": "18-May-25",
+        "id": "match71",
+        "date": "19-May-25",
         "time": "7:30 PM",
         "team1": {
           "name": "Lucknow Super Giants",
