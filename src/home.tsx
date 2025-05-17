@@ -663,7 +663,7 @@ function Home() {
           "name": "Punjab Kings",
           "logo": "https://upload.wikimedia.org/wikipedia/en/d/d4/Punjab_Kings_Logo.svg"
         },
-        "venue": "Narendra Modi Stadium, Ahmedabad"
+        "venue": "Sawai Mansingh Stadium, Jaipur"
       },
       {
         "id": "match70",
