@@ -665,6 +665,20 @@ function Home() {
         },
         "venue": "Sawai Mansingh Stadium, Jaipur"
       },
+     {
+        "id": "match46",
+        "date": "27-Apr-25",
+        "time": "7:30 PM",
+        "team1": {
+          "name": "Delhi Capitals",
+          "logo": "https://upload.wikimedia.org/wikipedia/en/2/2f/Delhi_Capitals.svg"
+        },
+        "team2": {
+          "name": "Gujarat Titans",
+          "logo": "https://upload.wikimedia.org/wikipedia/en/0/09/Gujarat_Titans_Logo.svg"
+        },
+        "venue": "Arun Jaitley Stadium, Delhi"
+      },
       {
         "id": "match70",
         "date": "18-May-25",
