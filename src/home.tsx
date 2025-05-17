@@ -656,12 +656,12 @@ function Home() {
         "date": "18-May-25",
         "time": "3:30 PM",
         "team1": {
-          "name": "Gujarat Titans",
-          "logo": "https://upload.wikimedia.org/wikipedia/en/0/09/Gujarat_Titans_Logo.svg"
+          "name": "Rajasthan Royals",
+          "logo": "https://upload.wikimedia.org/wikipedia/en/5/5c/This_is_the_logo_for_Rajasthan_Royals%2C_a_cricket_team_playing_in_the_Indian_Premier_League_%28IPL%29.svg"
         },
         "team2": {
-          "name": "Chennai Super Kings",
-          "logo": "https://upload.wikimedia.org/wikipedia/en/2/2b/Chennai_Super_Kings_Logo.svg"
+          "name": "Punjab Kings",
+          "logo": "https://upload.wikimedia.org/wikipedia/en/d/d4/Punjab_Kings_Logo.svg"
         },
         "venue": "Narendra Modi Stadium, Ahmedabad"
       },
