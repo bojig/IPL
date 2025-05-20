@@ -693,6 +693,20 @@ function Home() {
         },
         "venue": "BRSABV Ekana Cricket Stadium, Lucknow"
       },
+        {
+        "id": "match72",
+        "date": "20-May-25",
+        "time": "7:30 PM",
+        "team1": {
+          "name": "Chennai Super Kings",
+          "logo": "https://upload.wikimedia.org/wikipedia/en/2/2b/Chennai_Super_Kings_Logo.svg"
+        },
+        "team2": {
+          "name": "Rajasthan Royals",
+          "logo": "https://upload.wikimedia.org/wikipedia/en/5/5c/This_is_the_logo_for_Rajasthan_Royals%2C_a_cricket_team_playing_in_the_Indian_Premier_League_%28IPL%29.svg"
+        },
+        "venue": "Arun Jaitley Stadium, Delhi"
+      },
     ];
     // Filter out past matches
     // Filter out past matches but include today's matches
