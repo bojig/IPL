@@ -707,6 +707,20 @@ function Home() {
         },
         "venue": "Arun Jaitley Stadium, Delhi"
       },
+        {
+        "id": "match73",
+        "date": "13-Apr-25",
+        "time": "7:30 PM",
+        "team1": {
+          "name": "Delhi Capitals",
+          "logo": "https://upload.wikimedia.org/wikipedia/en/2/2f/Delhi_Capitals.svg"
+        },
+        "team2": {
+          "name": "Mumbai Indians",
+          "logo": "https://upload.wikimedia.org/wikipedia/en/c/cd/Mumbai_Indians_Logo.svg"
+        },
+        "venue": "Wankhede Stadium, Mumbai"
+      },
     ];
     // Filter out past matches
     // Filter out past matches but include today's matches
